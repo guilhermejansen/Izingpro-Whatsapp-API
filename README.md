@@ -1,5 +1,5 @@
 # IzingPro + WhatsApp API (Oficial e Não-Oficial) Integration 🤖📲
-
+Com Auto-Instalador
 ## 🇧🇷 Português
 
 ### 🌟 Sobre
